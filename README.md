@@ -4,6 +4,9 @@ Credits for this project goes to [https://github.com/sjvasquez/handwriting-synth
 I just dockerised it and modified so to use it for my assignments.
 
 ## To run
+
+Clone the repo
+
 ```docker compose up -d```
 
 Then
@@ -23,4 +26,5 @@ Everything is volume mapped so enjoy
 ## Effective Usage
 I used it for theoritical assignments for which I got the content online. An easy way is to print the pages, draw margins and then scan it using CamScanner B/W mode.
 
-<img src="./img/final_demo0.svg" alt="Image Demo" width="500"/>
+![Image Demo](./img/demo.png)
+
