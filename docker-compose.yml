@@ -1,0 +1,9 @@
+version: "3"
+services: 
+    tflow:
+        container_name: tflow-python
+        build: .
+        volumes:
+            - ./:/handwriting_synthesis
+        tty: true 
+
